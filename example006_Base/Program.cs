@@ -1,8 +1,8 @@
-﻿int a = new Random().Next(0, 100);
-int b = new Random().Next(0, 100);
-int c = new Random().Next(0, 100);
-int d = new Random().Next(0, 100);
-int e = new Random().Next(0, 100);
+﻿int a = new Random().Next(0, 101);
+int b = new Random().Next(0, 101);
+int c = new Random().Next(0, 101);
+int d = new Random().Next(0, 101);
+int e = new Random().Next(0, 101);
 int max = a;
 string let = "a";
 if (b > max)
